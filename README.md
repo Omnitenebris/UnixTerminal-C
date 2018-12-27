@@ -9,6 +9,6 @@ The following features are currently available:
 * Directory and File system
 * Pointers and Pipelines
 * I/O Redirection
-* Connectives ';', '&&', and '||'
+* Connectives `;`, `&&`, and `||`
 
 To run, either run fsh-Compiled or the Makefile itself which will compile everything and allow for personal modification to add or remove features.
